@@ -1,2 +1,3 @@
 # hello-world
-just to get started.
+just to get started. 
+Trying to learn.
